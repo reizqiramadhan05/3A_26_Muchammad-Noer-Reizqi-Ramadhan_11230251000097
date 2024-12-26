@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "676cb041b698d6556f4eeb86"
+  },
+  "judulvidio": "warsito berkarya",
+  "deskripsividio": "vidio ini menceritakan kisah warsito",
+  "genre": "kisah inspirasi",
+  "durasi": "15menit",
+  "tahunRilis": "2020"
+},
+{
+  "_id": {
+    "$oid": "676cb041b698d6556f4eeb87"
+  },
+  "idPengguna": 32739718973,
+  "namaPengguna": "reizqiramadhan",
+  "email": "reizqi@gmai.com",
+  "riwayat": "sepuluhvidio"
+},
+{
+  "_id": {
+    "$oid": "676cb041b698d6556f4eeb88"
+  },
+  "datapembayaran": "sopipay",
+  "statuslayanan": "premium",
+  "riwayatTransaksi": "terlampi"
+}]
